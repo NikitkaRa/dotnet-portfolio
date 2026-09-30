@@ -1,1 +1,0 @@
-C#/.NET-разработчик, 11+ лет опыта. Backend: ASP.NET Core (.NET 6–8), REST/Web API, PostgreSQL, MS SQL, EF Core, Dapper, Redis, RabbitMQ, Kafka, gRPC, Docker, Kubernetes, CI/CD. Микросервисная архитектура, миграции легаси, код-ревью, менторинг. Домены: логистика, финтех, enterprise. Команды: EPAM, Innowise. English B2. Ищу удалённую позицию Senior .NET Backend.
