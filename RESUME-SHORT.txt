@@ -1,0 +1,14 @@
+# Короткое резюме для hh / rabota.by (поле «О себе»)
+
+Middle+/Senior .NET (C#, ASP.NET Core): микросервисы, REST/gRPC, PostgreSQL/MS SQL, EF Core + Dapper, Redis, Kafka/RabbitMQ, Docker/Kubernetes, CI/CD. Также WinForms/MVP и fullstack с AI-агентами (React/TS + LLM).
+
+В коммерческих проектах стек закрыт NDA — публично выложил краткие демо ключевых частей:
+https://github.com/NikitkaRa/dotnet-portfolio
+• AuroraPay — payments highload
+• MercatoPulse — retail / ClickHouse
+• ParcelRelay — logistics integrations
+• CatalogNexus — master data / search
+• SynapseDesk — AI agents + React
+• DeskForge — WinForms MVP
+
+Ищу удалёнку, полная занятость, Минск UTC+3.

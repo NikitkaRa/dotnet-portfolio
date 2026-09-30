@@ -1,0 +1,6 @@
+@MercatoPulse.Orders.Api_HostAddress = http://localhost:5153
+
+GET {{MercatoPulse.Orders.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

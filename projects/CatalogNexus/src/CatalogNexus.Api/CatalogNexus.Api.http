@@ -1,0 +1,6 @@
+@CatalogNexus.Api_HostAddress = http://localhost:5182
+
+GET {{CatalogNexus.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@AuroraPay.Gateway_HostAddress = http://localhost:5090
+
+GET {{AuroraPay.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
